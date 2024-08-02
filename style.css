@@ -1,0 +1,166 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.section{
+    padding: 30px;
+    width: 80%;
+    margin-left: 200px;
+    border: 2px solid;
+}
+
+.container{
+    border: 5px solid rgb(24, 24, 103);
+    padding: 10px;
+    margin: 20px;
+}
+
+.top{
+    color: rgb(24, 24, 103);
+}
+
+#row1{
+    padding: 20px;
+}
+
+.sr{
+    color: red;
+}
+
+.logo{
+    width: 100px;
+    height: 150px;
+    margin-left: 130px;
+}
+
+.qr{
+    width: 100px;
+    height: 100px;
+}
+
+.clg-name{
+    text-align: center ;
+    color: rgb(24, 24, 103);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.sub-head{
+    text-align: center ;
+    color: rgb(24, 24, 103);
+}
+
+.marks-head{
+    text-align: center;
+    color: rgb(75, 30, 129);
+}
+
+#row2{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#table1-head{
+    text-align: center;
+    border: 3px solid rgb(75, 30, 129);
+    padding: 10px;
+    border-right: 1px solid rgb(75, 30, 129);
+    border-bottom: none;
+    background-color: rgb(228, 226, 254);
+}
+
+#table1-head h5{
+    color: rgb(24, 24, 103);
+}
+
+#table2-head{
+    text-align: center;
+    border: 3px solid rgb(75, 30, 129);
+    padding: 10px;
+    border-bottom: none;
+    background-color: rgb(228, 226, 254);
+}
+
+#table2-head h5{
+    color: rgb(24, 24, 103);
+}
+
+#reg{
+    text-align: center;
+    border: 3px solid rgb(75, 30, 129);
+    border-right: 1px solid rgb(75, 30, 129);
+    background-color: rgb(228, 226, 254);
+}
+
+#reg h5{
+    color: rgb(24, 24, 103);
+}
+
+#authorize{
+    text-align: center;
+    border: 3px solid rgb(75, 30, 129);
+    border-left: 2px solid rgb(75, 30, 129);
+    background-color: rgb(228, 226, 254);
+}
+
+#authorize h5{
+    color: rgb(24, 24, 103);
+}
+
+#main-sheet{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+}
+
+#main-sheet table{
+    background-color: rgb(228, 226, 254);
+}
+
+.sub-details{
+    text-align: center;
+}
+
+.head{
+    text-align: center;
+}
+
+#main-sheet th{
+    font-size: 20px;
+}
+
+#main-sheet table,#main-sheet th,#main-sheet td{
+    border: 3px solid rgb(75, 30, 129);
+    border-collapse: collapse;
+    padding: 20px;
+}
+
+#main-sheet td{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#main-sheet h5{
+    color: rgb(24, 24, 103);
+}
+
+#main-sheet td input{
+    background-color: rgb(228, 226, 254);
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+.total,.result,.percentage,.grade{
+    text-align: center;
+    font-weight: bolder;
+}
+
+.grand{
+    color: rgb(24, 24, 103);
+}
+
+#last-row{
+    margin-top: 100px;
+    margin-left: 50px;
+}
